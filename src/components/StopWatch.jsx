@@ -1,3 +1,1 @@
-export default function StopWatch() {
-  return;
-}
+export default function StopWatch() {}
