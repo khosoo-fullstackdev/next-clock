@@ -1,3 +1,8 @@
+import ClockApp from "@/components/ClockApp";
 export default function Home() {
-  return <main></main>;
+  return (
+    <main>
+      <ClockApp />
+    </main>
+  );
 }
